@@ -5,8 +5,6 @@ import org.openqa.selenium.Keys;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
 
-import java.time.Duration;
-
 public class LocatorsMakeOrder {
     WebDriver driver;
     Waits waits;
